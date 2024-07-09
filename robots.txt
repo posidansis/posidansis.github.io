@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://posidansis.github.io/sitemap
+Sitemap: https://posidansis.github.io/app/sitemap
+Sitemap: https://posidansis.github.io/assets/sitemap
+Sitemap: https://posidansis.github.io/css/sitemap
+Sitemap: https://posidansis.github.io/includes/sitemap
+Sitemap: https://posidansis.github.io/item/sitemap
+Sitemap: https://posidansis.github.io/src/sitemap
